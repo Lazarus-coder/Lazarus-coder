@@ -1,4 +1,4 @@
-too lazay too write up
+## professinal slacker
 
 <!---
 Lazarus-coder/Lazarus-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
