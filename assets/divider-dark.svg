@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="34" viewBox="0 0 800 34" fill="none">
+  <defs>
+    <g id="seed" stroke="#5eead4" stroke-width="1" stroke-linecap="round" fill="none">
+      <path d="M0 0 Q0 -5.5 0 -10"/>
+      <path d="M0 0 Q1.76 -5.06 3.91 -9.21"/>
+      <path d="M0 0 Q-1.76 -5.06 -3.91 -9.21"/>
+      <path d="M0 0 Q3.29 -3.75 7.31 -6.82"/>
+      <path d="M0 0 Q-3.29 -3.75 -7.31 -6.82"/>
+      <path d="M0 0 Q4.23 -1.88 9.4 -3.42"/>
+      <path d="M0 0 Q-4.23 -1.88 -9.4 -3.42"/>
+      <path d="M0 0 Q0.4 5.5 -0.6 10.6" stroke-width="1.1"/>
+      <circle cx="0" cy="-10" r="0.65" fill="#5eead4" stroke="none"/>
+      <circle cx="3.91" cy="-9.21" r="0.65" fill="#5eead4" stroke="none"/>
+      <circle cx="-3.91" cy="-9.21" r="0.65" fill="#5eead4" stroke="none"/>
+      <circle cx="7.31" cy="-6.82" r="0.65" fill="#5eead4" stroke="none"/>
+      <circle cx="-7.31" cy="-6.82" r="0.65" fill="#5eead4" stroke="none"/>
+      <circle cx="9.4" cy="-3.42" r="0.65" fill="#5eead4" stroke="none"/>
+      <circle cx="-9.4" cy="-3.42" r="0.65" fill="#5eead4" stroke="none"/>
+      <circle cx="-0.6" cy="11.9" r="1.25" fill="#5eead4" stroke="none"/>
+    </g>
+  </defs>
+  <line x1="24" y1="18" x2="352" y2="18" stroke="#242a2c" stroke-width="1"/>
+  <line x1="448" y1="18" x2="776" y2="18" stroke="#242a2c" stroke-width="1"/>
+  <use href="#seed" transform="translate(400 18)"/>
+  <use href="#seed" transform="translate(205 12) scale(0.5) rotate(-16)" opacity="0.4"/>
+  <use href="#seed" transform="translate(597 24) scale(0.4) rotate(12)" opacity="0.3"/>
+</svg>
